@@ -2,6 +2,7 @@
 A js library that returns country flag from country name.
 
 #### CDN Link ```https://cdn.jsdelivr.net/gh/jaiakash/countryFlag@master/countryFlag.js```
+#### Credit for flag image ```https://lipis.github.io/flag-icon-css/flags/```
 
 ### Sample.js
 ```
